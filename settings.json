@@ -1,7 +1,7 @@
 {
   // editor
-  "editor.fontSize": 20,
-  "editor.fontFamily": "Fira Code, Operator Mono",
+  "editor.fontSize": 14,
+  //"editor.fontFamily": "Fira Code, Operator Mono",
   "editor.fontLigatures": true,
   "editor.wordWrap": "on",
   "editor.minimap.enabled": false,
@@ -35,7 +35,7 @@
   "eslint.alwaysShowStatus": true,
   "prettier.disableLanguages": ["javascript", "javascriptreact"],
   //terminal
-  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.fontSize": 14,
   "terminal.integrated.fontWeight": "normal",
   "terminal.integrated.fontFamily": "Fira Code, Operator Mono",
   "workbench.colorTheme": "Community Material Theme Darker High Contrast",
